@@ -1,0 +1,4 @@
+gitdb==4.0.9
+GitPython==3.1.26
+Pygments==2.11.2
+smmap==5.0.0
